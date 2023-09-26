@@ -1,0 +1,11 @@
+.active{
+    color:blue;
+    font-size:20px;
+}
+.gap{
+    gap:10px;
+    cursor: pointer;
+}
+.bot{
+    margin-bottom: 7px;
+}
